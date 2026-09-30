@@ -77,13 +77,9 @@ A Python-based cybersecurity tool that checks common network ports on the local 
 3\. The portfolio website can also be viewed through GitHub Pages.
 
 
+## Screenshots
 
-\## Screenshots
-
-
-
-!\[Portfolio Homepage](screenshots/portfolio-home.png)
-
+![Portfolio Homepage](screenshots/portfolio-home.png)
 \## Education
 
 
